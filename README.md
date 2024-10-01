@@ -91,7 +91,7 @@ This project aims to showcase skills in **data visualization** and **analysis** 
 ![Overview Page](Screenshots/Overview.png)
 
 ### Employee Details Page
-![Employee Details Screenshot](Employee Analyze/Screenshots/Employee Details.png)
+![Employee Details Page](Screenshots/Employee_Details.png)
 
 ### Demographic Information Page
-![Demographix Informations Screenshot](Employee Analyze/Screenshots/Demographic Informations.png)
+![Demographic Information Page](Screenshots/Demographic_Informations.png)
