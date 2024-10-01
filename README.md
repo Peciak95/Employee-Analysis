@@ -88,10 +88,10 @@ This project aims to showcase skills in **data visualization** and **analysis** 
 ## Screenshots
 
 ### Overview Page
-![Overview Screenshot](path_to_screenshot)
+![Overview Page](Screenshots/Overview.png)
 
 ### Employee Details Page
-![Overview Screenshot](path_to_screenshot)
+![Employee Details Screenshot](Employee Analyze/Screenshots/Employee Details.png)
 
 ### Demographic Information Page
-![Overview Screenshot](path_to_screenshot)
+![Demographix Informations Screenshot](Employee Analyze/Screenshots/Demographic Informations.png)
